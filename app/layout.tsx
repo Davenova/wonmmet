@@ -26,7 +26,7 @@ export default function RootLayout({
               <i className="fas fa-trophy text-gray-500" />
               <div className="text-sm text-gray-500">Wallet</div>
             </a>
-            <a className="text-center" href="https://make-ton-telegram-mini-app-3-alpha.vercel.app/">
+            <a className="text-center" href="https://invos.vercel.app/">
               <i className="fas fa-user-friends text-gray-500" />
               <div className="text-sm text-gray-500">Friends</div>
             </a>
