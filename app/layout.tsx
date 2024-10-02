@@ -22,7 +22,7 @@ export default function RootLayout({
               <i className="fas fa-home text-gray-500" />
               <div className="text-sm text-gray-500">Home</div>
             </a>
-            <a href="wallet.html" className="text-center">
+            <a href="https://wonmmet.vercel.app/" className="text-center">
               <i className="fas fa-trophy text-gray-500" />
               <div className="text-sm text-gray-500">Wallet</div>
             </a>
