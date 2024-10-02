@@ -18,7 +18,7 @@ export default function RootLayout({
           {children}
           {/* Footer */}
           <div className="fixed bottom-0 left-0 right-0 bg-white shadow p-4 flex justify-around">
-            <a href="index.html" className="text-center">
+            <a href="https://davenova.github.io/mini-app-test/" className="text-center">
               <i className="fas fa-home text-gray-500" />
               <div className="text-sm text-gray-500">Home</div>
             </a>
